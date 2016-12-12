@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Bomb.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Bomb.cs" Line="61" Column="58" />
+      <File FileName="Assets/Scripts/MapGeneration.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player.cs" Line="1" Column="1" />
+      <File FileName="Assets/Game Jam Menu Template/Scripts/StartOptions.cs" Line="127" Column="28" />
+      <File FileName="Assets/Scripts/deadText.cs" Line="1" Column="1" />
+      <File FileName="Assets/Game Jam Menu Template/Scripts/ShowPanels.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

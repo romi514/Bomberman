@@ -1,0 +1,14 @@
+/Users/Romain/Desktop/Bomberman/Temp/bin/Debug/UnityEngine.dll
+/Users/Romain/Desktop/Bomberman/Temp/bin/Debug/UnityEditor.dll
+/Users/Romain/Desktop/Bomberman/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Romain/Desktop/Bomberman/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Romain/Desktop/Bomberman/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Romain/Desktop/Bomberman/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Romain/Desktop/Bomberman/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Romain/Desktop/Bomberman/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Romain/Desktop/Bomberman/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Romain/Desktop/Bomberman/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Romain/Desktop/Bomberman/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Romain/Desktop/Bomberman/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Romain/Desktop/Bomberman/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Romain/Desktop/Bomberman/Temp/bin/Debug/Mono.Cecil.Mdb.dll
